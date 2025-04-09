@@ -131,8 +131,8 @@
         <p>2位：過去キヨ</p>
       </div>
       <div class="result-card">
-        <img src="winnerC.png" alt="先週の3位：キャラクターC">
-        <p>3位：キャラクターC</p>
+        <img src="IMG_6555.jpeg" alt="先週の3位：キヨさん">
+        <p>3位：キヨさん</p>
       </div>
       <div class="result-card">
         <img src="winnerD.png" alt="先週の4位：キャラクターD">
