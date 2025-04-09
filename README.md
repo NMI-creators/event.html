@@ -123,8 +123,8 @@
     <h2>先週の結果</h2>
     <div class="result-grid">
       <div class="result-card">
-        <img src="winnerA.png" alt="先週の1位：キャラクターA">
-        <p>1位：キャラクターA</p>
+        <img src="IMG_6561.jpeg" alt="先週の1位：友澤">
+        <p>1位：友澤</p>
       </div>
       <div class="result-card">
         <img src="IMG_6553.jpeg" alt="先週の2位：過去キヨ">
