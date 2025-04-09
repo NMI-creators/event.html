@@ -135,8 +135,8 @@
         <p>3位：キヨさん</p>
       </div>
       <div class="result-card">
-        <img src="winnerD.png" alt="先週の4位：キャラクターD">
-        <p>4位：キャラクターD</p>
+        <img src="IMG_6558.jpeg" alt="先週の4位：NAK-01ra">
+        <p>4位：NAK-01ra</p>
       </div>
     </div>
   </div>
